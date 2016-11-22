@@ -62,3 +62,52 @@
 .flex{
   margin: auto;
 }
+
+.flex{
+  flex: 1;
+}
+
+.flex-10{
+  flex: 1 1 10%;
+  max-width: 10%;
+}
+
+.flex-20{
+  flex: 1 1 20%;
+  max-width: 20%;
+}
+
+.flex-30{
+  flex: 1 1 30%;
+  max-width: 30%;
+}
+
+.flex-40{
+  flex: 1 1 40%;
+  max-width: 40%;
+}
+
+.flex-50{
+  flex: 1 1 50%;
+  max-width: 50%;
+}
+
+.flex-60{
+  flex: 1 1 60%;
+  max-width: 60%;
+}
+
+.flex-70{
+  flex: 1 1 70%;
+  max-width: 70%;
+}
+
+.flex-80{
+  flex: 1 1 80%;
+  max-width: 80%;
+}
+
+.flex-90{
+  flex: 1 1 90%;
+  max-width: 90%;
+}
